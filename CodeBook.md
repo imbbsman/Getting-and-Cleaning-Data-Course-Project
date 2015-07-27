@@ -1,12 +1,12 @@
 Here is the describing of variables, with regards to doobidoo at GitHub:
 
 six activity labels:
-LAYING
-SITTING
-STANDING
-WALKING
-WALKING_DOWNSTAIR
-WALKING_UPSTAIRS
+   LAYING
+   SITTING
+   STANDING
+   WALKING
+   WALKING_DOWNSTAIR
+   WALKING_UPSTAIRS
 
 Variable Names:
 activity
