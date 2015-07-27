@@ -24,12 +24,19 @@ From the data set in step 4, creates a second, independent tidy data set with th
 4. Uses descriptive activity names to name the activities in the data set using function SetActivityNames = function(df)
 5. Appropriately labels the data set with descriptive variable names
    to be specific, does the following:
+
    substitute "-mean" with ".mean"
+   
    substitute "-std" with ".std"
+   
    substitute "-meanFreq()" with ".mean.freq"
+   
    substitute "-" with "."
+   
    remove "()"
+   
    convert upper to lower case
+   
 6. Write the tidy data set using MakeTidy = function(df)
 
 For specified codes and variables, please refer to CodeBook.md and run_analysis.R
