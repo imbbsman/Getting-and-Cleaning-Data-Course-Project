@@ -1,4 +1,5 @@
 Description for Tidy Data:
+
 Contains total mean values of mean and standard deviation values, which were derived from original data set grouped by activity and subject, resulting in a total of 180 records.
 
 Attributes:
